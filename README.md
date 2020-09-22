@@ -3,4 +3,4 @@ Utilizing C++ language, my game leverages the object-oriented and graphics capab
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-Please see the demo for all features here: https://youtu.be/LkvOc9F4Ttg
+Demo of Application: https://youtu.be/LkvOc9F4Ttg
